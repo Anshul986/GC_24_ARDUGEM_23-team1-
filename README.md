@@ -2,8 +2,9 @@
 GitHub Repository Name: GC_24_ARDUGEM_23(team1)
 
 
-# BLOCK-PONG
-Block-Pong is a dynamic game where the player controls a Bar at the bottom of the screen to bounce a ball. The objective is to break as many blocks as possible by hitting them with the ball while preventing the ball or block from falling off the bottom of the screen. Each block broken adds points to the player's score, and the game becomes progressively more challenging as the blocks regenerate or new blocks are introduced.
+# Introduction:
+**HIT-PONG**
+Hit-Pong is a dynamic game where the player controls a Bar at the bottom of the screen to bounce a ball. The objective is to break as many blocks as possible by hitting them with the ball while preventing the ball or block from falling off the bottom of the screen. Each block broken adds points to the player's score, and the game becomes progressively more challenging as the blocks regenerate or new blocks are introduced.
 
 
 ## Hardware Used:
@@ -57,4 +58,4 @@ Let's dive into the details!
 5. Enjoy playing the game on the TFT LCD display.
    
 
-Overall, Block-Pong offers engaging gameplay with intuitive controls, challenging mechanics, and endless opportunities for players to test their skills and achieve high scores.
+Overall, Hit-Pong offers engaging gameplay with intuitive controls, challenging mechanics, and endless opportunities for players to test their skills and achieve high scores.
