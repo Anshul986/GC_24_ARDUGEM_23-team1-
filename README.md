@@ -13,7 +13,7 @@ Block-Pong is a dynamic game where the player controls a Bar at the bottom of th
 
 
 # Concept:
- In this game, you control a paddle at the bottom of the screen to bounce a ball and hit the randomly generated blocks in space. Each hit to a block increases your score by +5 while each bounce given to the ball by the Bar increases your score by +1. If the ball fall off the bottom of the screen the game will be over.
+ In this game, you control the Bar at the bottom of the screen to bounce a ball and hit the randomly generated blocks in space. Each hit to a block increases your score by +5 while each bounce given to the ball by the Bar increases your score by +1. If the ball fall off the bottom of the screen the game will be over.
 Let's dive into the details!
 
 
