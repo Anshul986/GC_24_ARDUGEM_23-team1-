@@ -66,7 +66,7 @@ int prevPos;
 int xBar;
 int yBar;
 
-int proximityX;
+int proximityX; // closeness of ball and block calculated
 int proximityY;
 
 
@@ -101,7 +101,7 @@ void setup() {
 
 
 
-  xBar = (WIDTH / 2) - 20;
+  xBar = (WIDTH / 2) - 20; //initial position
   yBar = 130;
 
 
@@ -121,7 +121,7 @@ int absolute(int num1, int num2) {
 
 void loop() {
 
-  if (start == 0) {
+  if (start == 0) { // start screen
     tft.setCursor(40, 40);
     tft.setTextSize(3);
     tft.setTextColor(0xFFFF);
@@ -141,7 +141,7 @@ void loop() {
   }
 
 
-  else if (!endGame) {
+  else if (!endGame) {// main game screen
 
     tft.fillRect(0, 0, 200, 200, ILI9341_BLACK);
 
