@@ -52,7 +52,7 @@ Let's dive into the details!
  
 ## Installation:
 1. Clone this repository to your local machine.
-2. Open the Arduino IDE and navigate to File > Open. Select the `GC_24_ARDUGEM_23-team1-.ino` file from the cloned repository.
+2. Open the Arduino IDE and navigate to File > Open. Select the `Hit-Pong.ino` file from the cloned repository.
 3. Connect your Arduino board & the provided setup to your computer using a USB 2.0 cable TypeA/B.
 4. Upload the provided sketch to the Arduino board.
 5. Enjoy playing the game on the TFT LCD display.
